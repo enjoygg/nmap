@@ -232,7 +232,7 @@ editor by H0lic
               <thead>
                 <tr>
                   <th>IP</th>
-                  <th>domain</th>
+                  <th>Domain</th>
                   <th>Port</th>
                   <th>Protocol</th>
                   <th>Service</th>
